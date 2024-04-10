@@ -1,0 +1,6 @@
+my_string = input('Ваше ФИО: ' )
+print('понимаешь?, ', my_string.upper())
+print('понимаешь?, ', my_string.lower())
+print('понимаешь?, ', my_string.replace(' ',''))
+print(my_string [0])
+print(my_string[-1:])
